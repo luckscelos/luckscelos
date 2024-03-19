@@ -21,5 +21,5 @@
 
   ##
 
-![snake animation](https://github.com/luckscelos/luckscelos/blob/output/github-contribution-grid-snake2.svg)
+![Snake animation](https://github.com/luckscelos/luckscelos/blob/output/github-contribution-grid-snake.svg)
 
